@@ -39,3 +39,10 @@ to this GitHub repository. No preregistration has been filed yet.
 - The synthetic data and code here illustrate how I would structure and
   analyse the field experiment when I run it with real teams.
 
+## Versioning
+
+- **Version 1** – Synthetic illustration only (proposal PDF, synthetic data generator).
+- **Version 2** – Adds an explicit analysis-plan document and a more detailed example
+  analysis script on the synthetic data.
+- **Version 3** – Will add a preregistration-style outline (planned).
+
