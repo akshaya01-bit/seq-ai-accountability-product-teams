@@ -32,3 +32,10 @@ Planned outcomes (as in the proposal):
 I may later create an **OSF project page** that simply hosts the PDF and links
 to this GitHub repository. No preregistration has been filed yet.
 
+## How this connects to the proposal
+
+- The PDF in `paper/` is the same proposal I am submitting as a linked
+  writing sample for PhD applications.
+- The synthetic data and code here illustrate how I would structure and
+  analyse the field experiment when I run it with real teams.
+
